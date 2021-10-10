@@ -1,0 +1,28 @@
+{
+        "firstname": "abc",
+        "lastttname": "xyz",
+        "age": "15",
+        {
+        "firstname": "lam",
+        "lastttname": "mim",
+        "age": "18",
+        "designation": "junior Programmer",
+        "language": "c++",
+        "email": "lam577@gmail.com",
+        "password": "45678",
+        "image": "**"
+    },
+    {
+        "firstname": "Ali",
+        "lastttname": "Usa",
+        "age": "20",
+        "designation": "junior Programmer",
+        "language": "C++",
+        "email": "usa566@gmail.com",
+        "password": "12345",
+        "image": ""
+        "email": "lam577@email.com",
+        "password": "45678",
+        "image": "**"
+    }
+] 
